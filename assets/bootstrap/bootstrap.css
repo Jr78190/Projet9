@@ -593,10 +593,10 @@ progress {
   content: "— ";
 }
 
-.img-fluid {
+ .img-fluid {
   max-width: 100%;
   height: auto;
-}
+} 
 
 .img-thumbnail {
   padding: 0.25rem;
@@ -6694,9 +6694,6 @@ textarea.form-control-lg {
   display: inline-block !important;
 }
 
-.d-block {
-  display: block !important;
-}
 
 .d-grid {
   display: grid !important;
@@ -6931,9 +6928,6 @@ textarea.form-control-lg {
   width: 75% !important;
 }
 
-.w-100 {
-  width: 100% !important;
-}
 
 .w-auto {
   width: auto !important;

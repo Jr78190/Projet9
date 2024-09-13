@@ -22,6 +22,11 @@ body {
 	font-size: 26px;
 }
 
+.w-100 {
+	width: 1519px;
+  }
+
+
 .nav ul {
 	display: flex;
 	list-style-type: none;
